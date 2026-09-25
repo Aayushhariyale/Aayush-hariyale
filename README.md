@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="[https://github.com/Aayush Hariyale](https://github.com/Aayushhariyale)">
+<a href="https://github.com/AayushHariyale">
 <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
 <a href="https://www.linkedin.com/in/aayush-hariyale/">
